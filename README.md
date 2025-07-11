@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Marché Mokolo**
 - Location: Mokolo Market, Bamenda, North West Region, Cameroon
-- Email: support@marchemokolo.cm
+- Email: alainazahmbah@gmail.com
 - Phone: +237 6XX XX XX XX
 
 ## 🙏 Acknowledgments
@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for the Cameroonian market**
+**Made with ❤️by mbah  for the Cameroonian market**
